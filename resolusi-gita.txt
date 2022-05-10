@@ -9,7 +9,9 @@ Item yang harus dipelajari ulang:
 - Version Control System ____________________________________________________________________________________________________________<on progress>
 - UX Design
 - Bahasa Inggris
-- BackEnd Development seperti: PHP, node.js dsb
+- BackEnd Development seperti:
+  ^ PHP dan frameworknya: Laravel
+  ^ Struktur Data
 
 Teknis:
 - Konsisten Belajar 4 jam/ hari, 6 hari/ minggu.
