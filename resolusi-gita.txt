@@ -7,9 +7,12 @@ Item yang harus dipelajari ulang:
 - JavaScript ________________________________________________________________________________________________________________________<on progress>
 - Framework CSS dan JavaScript ______________________________________________________________________<Bootstrap & Tailwind Done, Javascript belum>
 - Version Control System ____________________________________________________________________________________________________________<on progress>
-- UX Design _________________________________________________________________________________________________ <cari sumber dan materi belajar-nya>
-- Bahasa Inggris ____________________________________________________________________________________________ <cari sumber dan materi belajar-nya>
+- UX Design  _________________________________________________________________________________________________<cari sumber dan materi belajar-nya>
+- Bahasa Inggris  ____________________________________________________________________________________________<cari sumber dan materi belajar-nya>
 - BackEnd Development seperti: PHP, node.js dsb
+- BackEnd Development seperti:
+  ^ PHP dan frameworknya: Laravel
+  ^ Struktur Data
 
 Teknis:
 - Konsisten Belajar 4 jam/ hari, 6 hari/ minggu.
