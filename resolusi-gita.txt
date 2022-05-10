@@ -1,0 +1,15 @@
+RESOLUSI GITA
+
+Tujuan : Web Developer 
+Item yang harus dipelajari ulang:
+- Belajar HTML
+- Belajar CSS
+- Belajar JavaScript
+- Belajar Framework CSS dan JavaScript
+- Belajar Version Control System
+- Belajar ttg UX Design
+- Belajar Bahasa Inggris
+- Belajar BackEnd PHP, node.js dsb
+
+Teknis:
+- Konsisten Belajar 4 jam/ hari, 6 hari/ minggu.
