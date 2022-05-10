@@ -2,16 +2,16 @@ RESOLUSI GITA
 
 Tujuan : Menjadi seorang Web Developer 
 Item yang harus dipelajari ulang:
-- HTML
-- CSS
-- JavaScript
-- Framework CSS dan JavaScript
-- Version Control System
+- HTML _____________________________________________________________________________________________________________________________________<done>
+- CSS ______________________________________________________________________________________________________________________________________<done>
+- JavaScript ________________________________________________________________________________________________________________________<on progress>
+- Framework CSS dan JavaScript ______________________________________________________________________<Bootstrap & Tailwind Done, Javascript belum>
+- Version Control System ____________________________________________________________________________________________________________<on progress>
 - UX Design
 - Bahasa Inggris
 - BackEnd Development seperti: PHP, node.js dsb
 
 Teknis:
 - Konsisten Belajar 4 jam/ hari, 6 hari/ minggu.
-- Ambil sertifikasi untuk html, css, dan javascript dari baparekraf
+- Ambil sertifikasi untuk html, css, dan javascript dari baparekraf _________________________<99% done, tinggal bikin TA-nya, deadline 20 Mei 2022>
 - Mulai bulan Juni 2022 bikin dan upload minimal 1 portfolio di github dan instagram
