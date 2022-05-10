@@ -13,3 +13,5 @@ Item yang harus dipelajari ulang:
 
 Teknis:
 - Konsisten Belajar 4 jam/ hari, 6 hari/ minggu.
+- Ambil sertifikasi untuk html, css, dan javascript dari baparekraf
+- Mulai bulan Juni 2022 bikin dan upload minimal 1 portfolio di github dan instagram
