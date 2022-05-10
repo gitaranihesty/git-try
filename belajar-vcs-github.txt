@@ -4,7 +4,7 @@ sumber: wpu git dan github
 Topik:
 1. Apa itu Git dan GitHub ? _____________ <done>
 2. Bekerja dengan GitHub ________________ <done>
-3. GitHub: Branch
+3. GitHub: Branch ________________ <on progress>
 4. GitHub: Fork
 5. Bekerja dengan Git
 6. Git Branch & Merge
